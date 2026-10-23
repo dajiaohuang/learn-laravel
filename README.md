@@ -61,9 +61,9 @@ The ultimate curated list of the **best Laravel learning resources** for PHP dev
 
 📝 Insightful Blogs to Enhance Your Skills (alphabetically sorted):
 
+- [Ahmed Shamim's Blog](https://ahmedshamim.com)
 - [Amit Merchant's Blog](https://amitmerchant.com)
 - [Ash Allen Design](https://ashallendesign.co.uk/blog)
-- [Ahmed Shamim's Blog](https://ahmedshamim.com)
 - [Benjamin Crozat's Blog](https://benjamincrozat.com)
 - [Best of Laravel Articles](https://bestoflaravel.com/articles)
 - [CodeCourse Articles](https://codecourse.com/articles)
